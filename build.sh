@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JMETER_VERSION="3.1"
+JMETER_VERSION="3.2"
 
 # Example build line
 # --build-arg IMAGE_TIMEZONE="Europe/Amsterdam"
